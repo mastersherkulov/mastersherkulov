@@ -1,4 +1,4 @@
-![README banner](https://github.com/mastersherkulov/mastersherkulov/blob/master/banner.png)
+![README banner](https://github.com/mastersherkulov/mastersherkulov/blob/master/ban.png)
 ### Hi there 👋
 
 <!--
