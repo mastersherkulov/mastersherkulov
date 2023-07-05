@@ -19,6 +19,7 @@ Hi. I’m Farrukh my full name is Farrukh Sherkulov. I was born in 1996. Master 
 <details>
   <summary><b>💻 Tech Stack </b></summary>
   <br>
+  
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -58,6 +59,7 @@ Hi. I’m Farrukh my full name is Farrukh Sherkulov. I was born in 1996. Master 
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br />
+  
 ![](https://github-readme-stats.vercel.app/api?username=mastersherkulov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mastersherkulov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mastersherkulov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -66,6 +68,7 @@ Hi. I’m Farrukh my full name is Farrukh Sherkulov. I was born in 1996. Master 
 <details>
   <summary><b>🐦 Latest Tweet</b></summary>
   <br />
+  
 [![](https://gtce.itsvg.in/api?username=mastersherkulov)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 </details>
 
