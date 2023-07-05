@@ -54,6 +54,7 @@ Hi. I’m Farrukh my full name is Farrukh Sherkulov. I was born in 1996. Master 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>
 
+
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br />
